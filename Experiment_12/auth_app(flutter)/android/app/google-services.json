@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "589015313996",
+    "project_id": "authapp-82214",
+    "storage_bucket": "authapp-82214.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589015313996:android:5d823a0d6995ed40368ee9",
+        "android_client_info": {
+          "package_name": "com.authapp.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589015313996-vfd6a93mr3o2fd72p5miro9nglff8u25.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.authapp.app",
+            "certificate_hash": "bd39008d0d06b8fde415f03d0b50c18b362d5f22"
+          }
+        },
+        {
+          "client_id": "589015313996-1j3f6spm1tagdptvf8gv9lq9omao94s4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC__wm61LPPhpD7EFKoxykTik0kZfbLSDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589015313996-1j3f6spm1tagdptvf8gv9lq9omao94s4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "589015313996-j50jscg4dta5lo8acesbeh1ick3pnosf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.authApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589015313996:android:fabfc482f6b9b585368ee9",
+        "android_client_info": {
+          "package_name": "com.example.auth_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589015313996-drk6ljtjejsn5k0p0lss3n3jbhpdek78.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.auth_app",
+            "certificate_hash": "787ce20029448d09b66d6897c6002269c0c08d1c"
+          }
+        },
+        {
+          "client_id": "589015313996-1j3f6spm1tagdptvf8gv9lq9omao94s4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC__wm61LPPhpD7EFKoxykTik0kZfbLSDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589015313996-1j3f6spm1tagdptvf8gv9lq9omao94s4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "589015313996-j50jscg4dta5lo8acesbeh1ick3pnosf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.authApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
