@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "478623382657",
+    "project_id": "authappproject-7f450",
+    "storage_bucket": "authappproject-7f450.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478623382657:android:c3475c5cfbc6daa43ce180",
+        "android_client_info": {
+          "package_name": "com.siddhant.authapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478623382657-78122kaln18uv27bdcia5n0a81fl7dp6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.siddhant.authapp",
+            "certificate_hash": "787ce20029448d09b66d6897c6002269c0c08d1c"
+          }
+        },
+        {
+          "client_id": "478623382657-ru7skfedau3ia8cur21mpl3t1id337jq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg5l0wLu8ZlBvv9W3MNfWuVUwsqG6w5MA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478623382657-ru7skfedau3ia8cur21mpl3t1id337jq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
