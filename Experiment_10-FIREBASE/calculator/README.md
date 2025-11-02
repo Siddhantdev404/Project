@@ -85,3 +85,7 @@ The entire application logic is contained in `lib/main.dart`:
     * `_onButtonPressed()`: The core logic for handling all button taps.
     * `_saveToHistory()`: An `async` method that adds a new document to the `history` collection in Firestore. It includes the calculation string and a `serverTimestamp`.
     * `_buildFirebaseHistory()`: A **`StreamBuilder`** that listens to the `history` collection (ordered by timestamp) and automatically rebuilds the `ListView` whenever the data changes in the cloud.
+
+    OUTPUT VIDEO:
+    
+    https://drive.google.com/drive/folders/1hBNfrflRYTUQ8FTOPHM_Ad2SqSn3m75g?usp=drive_link

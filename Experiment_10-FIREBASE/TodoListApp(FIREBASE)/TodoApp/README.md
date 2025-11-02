@@ -40,3 +40,8 @@ Use Updated App.js: Ensure you are using the Firebase-updated App.js code provid
 # or
 expo start
 Launch the App:A browser window will open with the Expo Developer Tools.Scan the QR code with your Expo Go app on your phone, or press a (Android) or i (iOS) in the terminal to launch the simulator.The application will start, load existing tasks from your chosen persistence layer, and allow you to add, mark as done, or delete tasks.📁 Key FilesFileDescriptionApp.jsThe main application component. Contains all state management, CRUD logic (interfacing with SQLite or Firebase), and UI rendering.HistoryScreen.jsA simple placeholder screen demonstrating navigation.database/index.js(SQLite Only) Contains the wrapper functions for SQLite operations (initDatabase, addTodo, etc.).firebaseConfig.js(Firebase Only) Initializes the Firebase SDK and exports the Firestore database instance.
+
+
+
+OUTPUT VIDEO:
+https://drive.google.com/drive/folders/13f2pHhrnjrXKN-LPb3zVchsBnRiv3fXD?usp=drive_link

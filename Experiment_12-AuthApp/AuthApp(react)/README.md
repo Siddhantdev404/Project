@@ -199,3 +199,7 @@ This is a critical security concern. Your expt 12.txt file mentions two:
 reCAPTCHA: Firebase automatically uses reCAPTCHA verification (the "I'm not a robot" test, which is often invisible) to ensure the request is coming from a real user and not a bot trying to send thousands of SMS messages.
 
 Billing Plan: The [auth/billing-not] error we saw is a security measure. By requiring a billing plan ("Blaze"), Firebase makes it impossible for an attacker to run up a huge SMS bill on a free, anonymous project. It ensures a real person is accountable for the project's usage.
+
+
+OUTPUT VIDEO:
+https://drive.google.com/drive/folders/1YEdqmSJfZmqpUpWeCAIHfeIYxa6k-Yb2?usp=drive_link

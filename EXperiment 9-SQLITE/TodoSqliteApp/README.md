@@ -22,3 +22,7 @@ Firebase Configuration Steps (CRITICAL)Firebase Console: Create a project in the
 
 ▶️ Running and TestingStart the Server:Bashnpx expo start
 Connect Mobile Device: Scan the QR code with the Expo Go app.Monitor: Press j in the terminal to open the Chrome Debugger and confirm that data is being read from and written to Firestore.
+
+OUTPUT VIDEO:
+
+https://drive.google.com/drive/folders/1DO2L0bz4jlphWhHCeVGWjx4DyxgCzQCq?usp=drive_link

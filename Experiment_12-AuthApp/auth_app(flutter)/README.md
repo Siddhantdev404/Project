@@ -182,3 +182,8 @@ Phone number: +919518548334 (or any test number you want)
 Verification code: 123456 (or any 6-digit code)
 
 Now, in the app, enter +919518548334. When it asks for the OTP, enter 123456. You will be logged in successfully.
+
+
+
+OUTPUT VIDEO:
+https://drive.google.com/drive/folders/1uMhC_55DXqTxdp_vBI6qLGW31WA6hNo2?usp=drive_link

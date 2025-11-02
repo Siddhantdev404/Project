@@ -73,3 +73,8 @@ The entire application logic is contained in `lib/main.dart`:
 ## 📄 License
 
 This project is open-source. Feel free to use this code as a reference or starting point for your own projects. Consider adding an [MIT License](https://opensource.org/licenses/MIT) if you make it public.
+
+
+OUTPUT VIDEO:
+
+https://drive.google.com/drive/folders/1DO2L0bz4jlphWhHCeVGWjx4DyxgCzQCq?usp=drive_link

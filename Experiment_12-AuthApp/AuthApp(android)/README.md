@@ -78,3 +78,7 @@ App Crashes on Click	Activity not declared in the manifest.	Verify all activitie
 "Authentication Failed"	Incorrect Firebase config or missing user.	1. Ensure you have successfully signed up for a user first. 2. Verify the SHA-1 fingerprint and re-download google-services.json.
 Google Sign-In fails	Incorrect SHA-1 key is registered in Firebase.	Follow Step 2 to re-verify and update the SHA-1 key and download the latest google-services.json.
 Phone Sign-in fails	Quota exceeded or test numbers not configured.	Use the Test Phone Numbers and codes set up in the Firebase Console.
+
+
+OUTPUT VIDEO:
+https://drive.google.com/drive/folders/1jowIonfF3u2jXGK-tNEXDy4mlIcvDVCS?usp=drive_link
